@@ -1,0 +1,15 @@
+{
+  "name": "ktumblr-js",
+  "version": "0.0.1-SNAPSHOT",
+  "main": "ktumblr-js.js",
+  "types": "ktumblr-js.d.ts",
+  "devDependencies": {
+    "typescript": "5.9.3"
+  },
+  "dependencies": {
+    "ws": "8.20.1"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
